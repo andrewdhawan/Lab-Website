@@ -1,5 +1,102 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.21203/rs.3.rs-10283470/v1
+  title: A two-stage machine-learning model for clinical prediction of leptomeningeal
+    metastasis from routine cerebrospinal fluid evaluation
+  authors:
+  - Andrew Dhawan
+  - Ryan Rilinger
+  - Mina Lobbous
+  - Alyssa Lucas
+  - Mark Malkin
+  - David Peereboom
+  - Alejandro Torres-Trejo
+  - Glen Stevens
+  publisher: Springer Science and Business Media LLC
+  date: '2026-09-09'
+  link: https://doi.org/hcjg28
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.32713018
+  title: 'Supplementary Table S1 from Cancer and Overgrowth Manifestations of &lt;i&gt;PTEN&lt;/i&gt;
+    Hamartoma Tumor Syndrome: Management Recommendations from the International PHTS
+    Consensus Guidelines Working Group'
+  authors:
+  - Andrew Dhawan
+  - Sarah Baitamouni
+  - Darren Liu
+  - Lamis Yehia
+  - Kristin Anthony
+  - Alicia McCarther
+  - Marc Tischkowitz
+  - Suzanne P. MacFarland
+  - Joanne Ngeow
+  - Nicoline Hoogerbrugge
+  - Charis Eng
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hb8ck8
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.32713015
+  title: 'Supplementary Table S2 from Cancer and Overgrowth Manifestations of &lt;i&gt;PTEN&lt;/i&gt;
+    Hamartoma Tumor Syndrome: Management Recommendations from the International PHTS
+    Consensus Guidelines Working Group'
+  authors:
+  - Andrew Dhawan
+  - Sarah Baitamouni
+  - Darren Liu
+  - Lamis Yehia
+  - Kristin Anthony
+  - Alicia McCarther
+  - Marc Tischkowitz
+  - Suzanne P. MacFarland
+  - Joanne Ngeow
+  - Nicoline Hoogerbrugge
+  - Charis Eng
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hb8ck9
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/neuonc/noag048
+  title: 'Metabolomics and machine learning for early diagnosis of leptomeningeal
+    metastasis: Caution before clinical application'
+  authors:
+  - Ryan G Rilinger
+  - Andrew Dhawan
+  publisher: Neuro-Oncology
+  date: '2026-03-07'
+  link: https://doi.org/hbrs8w
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41588-026-02631-w
+  title: Age identifies cancer drivers hidden within the genome
+  authors:
+  - Andrew Dhawan
+  - Andriy Marusyk
+  - Jacob G. Scott
+  publisher: Nature Genetics
+  date: '2026-06-01'
+  link: https://doi.org/hb6v72
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41556-026-01947-3
+  title: "lncRNA in EGFR\u2011driven glioblastoma"
+  authors:
+  - Andrew Dhawan
+  - Justin D. Lathia
+  publisher: Nature Cell Biology
+  date: '2026-05-01'
+  link: https://doi.org/hb3fqp
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/brain/awaf467
   title: 'Reply: Phenotypic individual clusters and metabolic tuber subtypes refine
     surgical strategy in tuberous sclerosis complex'
@@ -9,18 +106,6 @@
   publisher: Brain
   date: '2025-12-30'
   link: https://doi.org/hbg9gf
-  orcid: 0000-0002-5027-1277
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/neuonc/noag048
-  title: 'Metabolomics and machine learning for early diagnosis of leptomeningeal
-    metastasis: caution before clinical application'
-  authors:
-  - Ryan G Rilinger
-  - Andrew Dhawan
-  publisher: Neuro-Oncology
-  date: '2026-03-07'
-  link: https://doi.org/hbrs8w
   orcid: 0000-0002-5027-1277
   plugin: orcid.py
   file: orcid.yaml
@@ -76,8 +161,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2025.08.07.669176
-  title: Context-Dependent miRNA Regulatory Landscapes in Breast Cancer Uncovered
-    by Network Community Structure
+  title: Multiomic network analysis reveals conserved and subtype-specific cooperative
+    microRNA regulators in breast cancer
   authors:
   - Eli Newby
   - Elijah Davis
@@ -307,8 +392,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/acn3.52046
-  title: 'Exploring the neurological features of individuals with germline <scp>PTEN</scp>
-    variants: A multicenter study'
+  title: "Exploring the neurological features of individuals with germline\n     \
+    \               <scp>PTEN</scp>\n                    variants: A multicenter study"
   authors:
   - Andrew Dhawan
   - Sarah Baitamouni
